@@ -44,7 +44,7 @@ WCAG 2.1 includes:
   - Deque: [WCAG 2.1: What is Next for Accessibility Guidelines](https://www.deque.com/blog/wcag-2-1-what-is-next-for-accessibility-guidelines/)
   - TPG: [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.tpgi.com/web-content-accessibility-guidelines-wcag-2-1/)
 
-## Legal standing
+## Legal স্তান্
 
 This guide is intended to provide practical information to help you build better, more accessible websites. However, we are not lawyers, and none of this constitutes legal advice. If you are worried about the legal implications of web accessibility, we'd recommend that you check the specific legislation governing accessibility for the web/public resources in your country or locale, and seek the advice of a qualified lawyer.
 
